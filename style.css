@@ -1,0 +1,76 @@
+.btn-purchase-honda{
+    background-color: #E76F51;
+    color: white;
+}
+.bike-title{
+    color: #E76F51;
+}
+.feature-bike{
+    display: flex;
+    justify-content: space-around;
+}
+.bike{
+    width: 288px;
+}
+.gray-scale-bike{
+    filter: grayscale(1);
+}
+.faq-photo{
+    width: 431.2px;
+}
+.main-modal, .modal-header{
+    color: black;
+    font-weight: 500;
+}.client-image{
+    width: 149px;
+    height: 149px;
+    margin:0 auto;
+    margin-top: 40px;
+}
+.font-icon{
+    margin: 0% 92px;
+}
+
+.fas{
+    width: 11.75px;
+    height: 11.75px;
+    padding-right: 3.4px;
+    color:#E77C40 ;
+    padding: 0 6.9px;
+}
+.far{
+   color: #E77C40;
+   padding: 0 6.9px;
+}
+.extra-section p{
+    font-size: 18px;
+}
+.extra-section p a{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px 8px;
+}
+.extra-section p a:hover{
+    background-image: linear-gradient(rgba(32, 241, 213, 0.609), rgba(183, 235, 42, 0.788));
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
